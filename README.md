@@ -1,4 +1,7 @@
-# ExileZ_generate_spawns_from_map
+# Gernate Zombie spawn positions for ExileZ Arma3
+
+This script will take a look at all map names and find so positions in every town for example. This is ideal to get zombie spawnpoints.
+
 
 I got the idea from FACEs A3XAI (here is a mirror link since he took his down. https://github.com/MrIrishMan/A3XAI-UPLOAD)
 
