@@ -1,3 +1,11 @@
+#This is now using a new custom format for my own ExileZ version!
+The fromat is "[[6693.92, 2583.52], 35, "namecitycapital"]"
+Coods, amount of units and a description, you can just change it a bit to fit in your custom format.
+
+I use the description to let different zeds spawn on different points, also they have different loot. and so one. The possibilities are endless.
+
+
+
 # Gernate Zombie spawn positions for ExileZ Arma3
 
 This script will take a look at all map names and find so positions in every town for example. This is ideal to get zombie spawnpoints.
